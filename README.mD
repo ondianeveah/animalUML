@@ -1,2 +1,2 @@
 # animalUML
-![](images/Untitled Diagram.png)
+![](images/Untitled%20Diagram.png)
